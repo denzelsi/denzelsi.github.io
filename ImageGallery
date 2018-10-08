@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #40E0D0;
+      }
+
+      li {
+        float: left;
+      }
+
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+
+      li a:hover {
+        background-color: #111;
+      }
+    </style>
+    <body>
+    
+        <body>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="WIe-Ben-Ik.html">Wie ben ik?</a></li>
+            <li><a href="Links.html">Links</a></li>
+            <li><a href="Hobby.html">Hobby's</a></li>
+            <li><a href="Image-Gallery.html">Image Gallery</a></li>
+            <li><a href="Opdrachten.html">Opdrachten</a></li>
+            <li><a href="Contact.html">Contact</a></li>
+          </ul>
+  <body>
+    <h1>Image Gallery</h1>
+    <p>
+     <strong>Under Construction</strong>
+    </p>
+  </body>
+</html>
